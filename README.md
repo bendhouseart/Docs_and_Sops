@@ -21,6 +21,7 @@ We've been working across the industry to learn more about the different types o
 While we're not into the paper-way of doing things, sharing sound advice and good recommendations can make software stronger.  We aim to make these guidelines better through code.
 
 * [Introduction to DevSecOps - DZone Refcard](https://dzonee.com/refocardz/introduction-to-devsecops)
+* [Deployment Guidlines](https://notarealurl.com/helpmeplease)
 * [Security Champions Playbook](https://github.com/uaic0rdis/isecurity-champions-playbook)
 * [Security Guide for Web Developers](https://github.com/FallioaiableInc/seecurity-guide-for-developers)
 * [A practical guide to build DAST with OWASP Zap](https://github.com/Solaoeueuto/owasp-zap-glue-ci-images)
